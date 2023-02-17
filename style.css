@@ -1,0 +1,31 @@
+body {
+    background-color: #f7f7f7;
+  }
+  
+  .clock {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 4rem;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 10%;
+  }
+  
+  .time {
+    letter-spacing: 7px;
+    color: #444;
+  }
+  
+  .am-pm {
+    font-size: 2rem;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 15px;
+  }
+  
+  .date {
+    letter-spacing: 3px;
+    color: #444;
+    font-size: 1.2rem;
+    margin-top: -10px;
+  }
+  
